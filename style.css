@@ -48,7 +48,7 @@ i.fa-solid.fa-phone {
 ul.navbar-nav {
     
     position: relative;
-    left: 35%;
+    left: 34%
 }
 a.nav-link {
     padding: 30px 0px;
@@ -68,7 +68,6 @@ li.nav-item {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 730px;
     padding-top: 200px;
 }
 
@@ -715,9 +714,7 @@ p.righter {
     overflow: hidden;
     background-color: #fff;
 }
-section.sec {
-    padding-top: 200px;
-}
+
 
 .teach:hover {
     color:#0D5EF4;
