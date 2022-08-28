@@ -1046,6 +1046,10 @@ a.perry {
     font-weight: 500;
     font-family: inherit;
     }
+     .main {
+        display: flex;
+        justify-content: space-evenly;
+    }
     
     .left-text {
         padding: 0px;
