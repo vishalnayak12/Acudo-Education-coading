@@ -1038,6 +1038,10 @@ a.perry {
     .uls{
         display: none;
     }
+    .main {
+        display: flex;
+        justify-content: space-evenly;
+    }
     a.brand {
         padding: 0px 5px 0px 0px;
     }
@@ -1045,10 +1049,6 @@ a.perry {
         font-size: 15px;
     font-weight: 500;
     font-family: inherit;
-    }
-     .main {
-        display: flex;
-        justify-content: space-evenly;
     }
     
     .left-text {
@@ -1222,7 +1222,7 @@ a.perry {
         padding-bottom: 60px;
     }
     .ten {
-        padding: 70px 0px;
+        padding: 320px 0px 100px  0px;
     }
     .meta-box {
         display:inline;
@@ -1241,7 +1241,7 @@ a.perry {
         width: 700px;
         height: 270px;
         object-fit: cover;
-        position: relative;
+        
     }
     
     .ritex {
@@ -1250,7 +1250,7 @@ a.perry {
     }
     .thik {
         position: relative;
-        top: 130px;
+        top: 150px;
     }
     .terah {
         padding: 70px 0px 60px 0px;
